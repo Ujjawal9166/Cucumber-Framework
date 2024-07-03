@@ -15,7 +15,7 @@ public class ZipTheFolder {
 	private static final int BUFFER_SIZE = 4096;
 
 	/**
-	 * @author : Harsh Gujrati
+	 * @author : Ujjawal Singh
 	 * 
 	 *Do not modify any content or code , will break zipping of file while sending email
 	 */
