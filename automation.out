@@ -1,0 +1,237 @@
+2024-02-06 15:02:944 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:66 INFO  CommonActions:180 - Highlighted the Admin Tab
+2024-02-06 15:02:175 INFO  CommonActions:180 - i Click on the element Admin Tab
+2024-02-06 15:02:175 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:514 INFO  CommonActions:180 - Highlighted the Username field
+2024-02-06 15:02:617 INFO  CommonActions:180 - i Click on the element Username field
+2024-02-06 15:02:660 INFO  CommonActions:180 - Highlighted the Username field
+2024-02-06 15:02:943 INFO  CommonActions:180 - Clicked onUsername field
+2024-02-06 15:02:945 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:85 INFO  CommonActions:180 - Highlighted the Password field
+2024-02-06 15:02:157 INFO  CommonActions:180 - i Click on the element Password field
+2024-02-06 15:02:201 INFO  CommonActions:180 - Highlighted the Password field
+2024-02-06 15:02:374 INFO  CommonActions:180 - Clicked onPassword field
+2024-02-06 15:02:375 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:500 INFO  CommonActions:180 - Highlighted the Login button
+2024-02-06 15:02:581 INFO  CommonActions:180 - i Click on the element Login button
+2024-02-06 15:02:594 INFO  CommonActions:180 - Waiting for element to be Present
+2024-02-06 15:02:609 INFO  CommonActions:180 - Highlighted the Admin portal header
+2024-02-06 15:02:624 INFO  CommonActions:180 - scrolled till the Admin portal header
+2024-02-06 15:02:624 INFO  CommonActions:180 - Admin portal header is displayed....
+2024-02-06 15:02:667 INFO  CommonActions:180 - Highlighted the Admin portal header
+2024-02-06 15:02:680 INFO  CommonActions:180 - Validating the logout functionality is passed
+2024-02-06 15:02:17 INFO  CommonActions:180 - Hover to the Examinations
+2024-02-06 15:02:102 INFO  CommonActions:180 - Highlighted the Examinations
+2024-02-06 15:02:238 INFO  CommonActions:180 - i Click on the element Examinations
+2024-02-06 15:02:356 INFO  CommonActions:180 - Highlighted the Assessment Methods
+2024-02-06 15:02:421 INFO  CommonActions:180 - Highlighted the Assessment Methods
+2024-02-06 15:02:217 INFO  CommonActions:180 - i Click on the element Assessment Methods
+2024-02-06 15:02:221 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:363 INFO  CommonActions:180 - Highlighted the Click on Add button
+2024-02-06 15:02:765 INFO  CommonActions:180 - i Click on the element Click on Add button
+2024-02-06 15:02:765 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:825 INFO  CommonActions:180 - Highlighted the I Enter the assessment Name in the Text Box
+2024-02-06 15:02:979 INFO  CommonActions:180 - i Click on the element I Enter the assessment Name in the Text Box
+2024-02-06 15:02:23 INFO  CommonActions:180 - Highlighted the I Enter the assessment Name in the Text Box
+2024-02-06 15:02:559 INFO  CommonActions:180 - Clicked onI Enter the assessment Name in the Text Box
+2024-02-06 15:02:559 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:680 INFO  CommonActions:180 - Highlighted the window
+2024-02-06 15:02:906 INFO  CommonActions:180 - i Click on the element window
+2024-02-06 15:02:906 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:314 INFO  CommonActions:180 - Highlighted the Successful alert is present
+2024-02-06 15:02:317 INFO  CommonActions:180 - Add Assessment Method is passed
+2024-02-06 15:02:384 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:505 INFO  CommonActions:180 - Highlighted the Assign Assessment Method Tab is clicked
+2024-02-06 15:02:977 INFO  CommonActions:180 - i Click on the element Assign Assessment Method Tab is clicked
+2024-02-06 15:02:983 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:81 INFO  CommonActions:180 - Highlighted the I Click Add buttonn for Assessment Master
+2024-02-06 15:02:460 INFO  CommonActions:180 - i Click on the element I Click Add buttonn for Assessment Master
+2024-02-06 15:02:460 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:627 INFO  CommonActions:180 - Highlighted the I Select Program name
+2024-02-06 15:02:776 INFO  CommonActions:180 - i Click on the element I Select Program name
+2024-02-06 15:02:826 INFO  CommonActions:180 - Highlighted the I Select Program name
+2024-02-06 15:02:49 INFO  CommonActions:180 - Clicked onI Select Program name
+2024-02-06 15:02:69 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:361 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:459 INFO  CommonActions:180 - Highlighted the I Select  Program Batch Name
+2024-02-06 15:02:642 INFO  CommonActions:180 - i Click on the element I Select  Program Batch Name
+2024-02-06 15:02:648 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:756 INFO  CommonActions:180 - Highlighted the I Select Program Bacth Name
+2024-02-06 15:02:973 INFO  CommonActions:180 - i Click on the element I Select Program Bacth Name
+2024-02-06 15:02:988 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:82 INFO  CommonActions:180 - Highlighted the I Select Assessment type
+2024-02-06 15:02:173 INFO  CommonActions:180 - i Click on the element I Select Assessment type
+2024-02-06 15:02:175 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:271 INFO  CommonActions:180 - Highlighted the I Select Program Bacth Name
+2024-02-06 15:02:348 INFO  CommonActions:180 - i Click on the element I Select Program Bacth Name
+2024-02-06 15:02:370 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:456 INFO  CommonActions:180 - Highlighted the I Select  Assign Assessment Method Arrow
+2024-02-06 15:02:734 INFO  CommonActions:180 - i Click on the element I Select  Assign Assessment Method Arrow
+2024-02-06 15:02:746 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:861 INFO  CommonActions:180 - Highlighted the I Select Assign AssessmentMethod Name
+2024-02-06 15:02:49 INFO  CommonActions:180 - i Click on the element I Select Assign AssessmentMethod Name
+2024-02-06 15:02:49 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:174 INFO  CommonActions:180 - Highlighted the window
+2024-02-06 15:02:349 INFO  CommonActions:180 - i Click on the element window
+2024-02-06 15:02:352 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:801 INFO  CommonActions:180 - Highlighted the Successful alert is present
+2024-02-06 15:02:813 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:992 INFO  CommonActions:180 - Highlighted the I Select Program name
+2024-02-06 15:02:101 INFO  CommonActions:180 - i Click on the element I Select Program name
+2024-02-06 15:02:148 INFO  CommonActions:180 - Highlighted the I Select Program name
+2024-02-06 15:02:328 INFO  CommonActions:180 - Clicked onI Select Program name
+2024-02-06 15:02:338 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:532 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:624 INFO  CommonActions:180 - Highlighted the I Select  Program Batch Name
+2024-02-06 15:02:807 INFO  CommonActions:180 - i Click on the element I Select  Program Batch Name
+2024-02-06 15:02:817 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:916 INFO  CommonActions:180 - Highlighted the I Select Program Bacth Name
+2024-02-06 15:02:55 INFO  CommonActions:180 - i Click on the element I Select Program Bacth Name
+2024-02-06 15:02:57 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:169 INFO  CommonActions:180 - Highlighted the I Select Assessment type
+2024-02-06 15:02:271 INFO  CommonActions:180 - i Click on the element I Select Assessment type
+2024-02-06 15:02:287 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:399 INFO  CommonActions:180 - Highlighted the I Select Program Bacth Name
+2024-02-06 15:02:478 INFO  CommonActions:180 - i Click on the element I Select Program Bacth Name
+2024-02-06 15:02:485 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:587 INFO  CommonActions:180 - Highlighted the Selecting the Search button
+2024-02-06 15:02:162 INFO  CommonActions:180 - i Click on the element Selecting the Search button
+2024-02-06 15:02:165 INFO  CommonActions:180 - Add Assign Assessment Method is passed
+2024-02-06 15:02:269 INFO  CommonActions:180 - Hover to the Examinations
+2024-02-06 15:02:326 INFO  CommonActions:180 - Highlighted the Examinations
+2024-02-06 15:02:452 INFO  CommonActions:180 - i Click on the element Examinations
+2024-02-06 15:02:661 INFO  CommonActions:180 - Highlighted the Assessment Scheme
+2024-02-06 15:02:716 INFO  CommonActions:180 - Highlighted the Assessment Scheme
+2024-02-06 15:02:68 INFO  CommonActions:180 - i Click on the element Assessment Scheme
+2024-02-06 15:02:82 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:183 INFO  CommonActions:180 - Highlighted the Click on Add button
+2024-02-06 15:02:229 INFO  CommonActions:180 - i Click on the element Click on Add button
+2024-02-06 15:02:234 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:337 INFO  CommonActions:180 - Highlighted the Selecting scheme type dropdown
+2024-02-06 15:02:500 INFO  CommonActions:180 - i Click on the element Selecting scheme type dropdown
+2024-02-06 15:02:514 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:639 INFO  CommonActions:180 - Highlighted the Selecting the Assessment Scheme
+2024-02-06 15:02:240 INFO  CommonActions:180 - i Click on the element Selecting the Assessment Scheme
+2024-02-06 15:02:248 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:359 INFO  CommonActions:180 - Highlighted the Clicking the Course Name for Search
+2024-02-06 15:02:606 INFO  CommonActions:180 - i Click on the element Clicking the Course Name for Search
+2024-02-06 15:02:624 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:734 INFO  CommonActions:180 - Highlighted the Clicking the Course Name for Search
+2024-02-06 15:02:915 INFO  CommonActions:180 - i Click on the element Clicking the Course Name for Search
+2024-02-06 15:02:915 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:109 INFO  CommonActions:180 - Highlighted the Enter the Assessment Name
+2024-02-06 15:02:231 INFO  CommonActions:180 - i Click on the element Enter the Assessment Name
+2024-02-06 15:02:280 INFO  CommonActions:180 - Highlighted the Enter the Assessment Name
+2024-02-06 15:02:534 INFO  CommonActions:180 - Clicked onEnter the Assessment Name
+2024-02-06 15:02:542 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:649 INFO  CommonActions:180 - Highlighted the Selecting Mode dropdown
+2024-02-06 15:02:871 INFO  CommonActions:180 - i Click on the element Selecting Mode dropdown
+2024-02-06 15:02:892 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:996 INFO  CommonActions:180 - Highlighted the Selecting Rounding Mode type
+2024-02-06 15:02:66 INFO  CommonActions:180 - i Click on the element Selecting Rounding Mode type
+2024-02-06 15:02:74 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:183 INFO  CommonActions:180 - Highlighted the Clicking Academic term dropdown arrow
+2024-02-06 15:02:300 INFO  CommonActions:180 - i Click on the element Clicking Academic term dropdown arrow
+2024-02-06 15:02:320 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:409 INFO  CommonActions:180 - Highlighted the Selecting Academic Term
+2024-02-06 15:02:623 INFO  CommonActions:180 - i Click on the element Selecting Academic Term
+2024-02-06 15:02:623 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:759 INFO  CommonActions:180 - Highlighted the normal
+2024-02-06 15:02:08 INFO  CommonActions:180 - i Click on the element normal
+2024-02-06 15:02:08 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:439 INFO  CommonActions:180 - Highlighted the Successful alert is present
+2024-02-06 15:02:458 INFO  CommonActions:180 - Add Assessment Scheme is passed
+2024-02-06 15:02:499 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:605 INFO  CommonActions:180 - Highlighted the clicking Assessment Scheme type dropdown
+2024-02-06 15:02:717 INFO  CommonActions:180 - i Click on the element clicking Assessment Scheme type dropdown
+2024-02-06 15:02:723 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:824 INFO  CommonActions:180 - Highlighted the Selecting Assessment scheme type
+2024-02-06 15:02:897 INFO  CommonActions:180 - i Click on the element Selecting Assessment scheme type
+2024-02-06 15:02:919 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:17 INFO  CommonActions:180 - Highlighted the Clicking Academic term dropdown
+2024-02-06 15:02:120 INFO  CommonActions:180 - i Click on the element Clicking Academic term dropdown
+2024-02-06 15:02:129 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:308 INFO  CommonActions:180 - Highlighted the Academic term
+2024-02-06 15:02:393 INFO  CommonActions:180 - i Click on the element Academic term
+2024-02-06 15:02:432 INFO  CommonActions:180 - Highlighted the Academic term
+2024-02-06 15:02:679 INFO  CommonActions:180 - Clicked onAcademic term
+2024-02-06 15:02:690 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:844 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:985 INFO  CommonActions:180 - Highlighted the Selecting Assessment Scheme Name
+2024-02-06 15:02:179 INFO  CommonActions:180 - i Click on the element Selecting Assessment Scheme Name
+2024-02-06 15:02:228 INFO  CommonActions:180 - Highlighted the Selecting Assessment Scheme Name
+2024-02-06 15:02:442 INFO  CommonActions:180 - Clicked onSelecting Assessment Scheme Name
+2024-02-06 15:02:459 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:652 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:767 INFO  CommonActions:180 - Highlighted the Search
+2024-02-06 15:02:76 INFO  CommonActions:180 - i Click on the element Search
+2024-02-06 15:02:90 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:189 INFO  CommonActions:180 - Highlighted the Selecting Assessment Scheme Name in the List
+2024-02-06 15:02:379 INFO  CommonActions:180 - i Click on the element Selecting Assessment Scheme Name in the List
+2024-02-06 15:02:379 INFO  CommonActions:180 - Search Assessment Scheme name is passed
+2024-02-06 15:02:416 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:526 INFO  CommonActions:180 - Highlighted the Click on Edit button
+2024-02-06 15:02:808 INFO  CommonActions:180 - i Click on the element Click on Edit button
+2024-02-06 15:02:808 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:685 INFO  CommonActions:180 - Highlighted the Link Academy Locations Tab is clicked
+2024-02-06 15:02:54 INFO  CommonActions:180 - i Click on the element Link Academy Locations Tab is clicked
+2024-02-06 15:02:54 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:237 INFO  CommonActions:180 - Highlighted the Enter the Academic Location
+2024-02-06 15:02:361 INFO  CommonActions:180 - i Click on the element Enter the Academic Location
+2024-02-06 15:02:400 INFO  CommonActions:180 - Highlighted the Enter the Academic Location
+2024-02-06 15:02:578 INFO  CommonActions:180 - Clicked onEnter the Academic Location
+2024-02-06 15:02:589 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:683 INFO  CommonActions:180 - Highlighted the Clicking Save Button
+2024-02-06 15:02:844 INFO  CommonActions:180 - i Click on the element Clicking Save Button
+2024-02-06 15:02:844 INFO  CommonActions:180 - Edit Assessment scheme and Linking Academy location is passed
+2024-02-06 15:02:868 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:984 INFO  CommonActions:180 - Highlighted the Course Mapping Tab is clicked
+2024-02-06 15:02:423 INFO  CommonActions:180 - i Click on the element Course Mapping Tab is clicked
+2024-02-06 15:02:431 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:524 INFO  CommonActions:180 - Highlighted the Selecting the Mapping course
+2024-02-06 15:02:734 INFO  CommonActions:180 - i Click on the element Selecting the Mapping course
+2024-02-06 15:02:735 INFO  CommonActions:180 - Mapping Course in Assessment scheme is passed
+2024-02-06 15:02:760 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:886 INFO  CommonActions:180 - Highlighted the Variant Mapping Tab is clicked
+2024-02-06 15:02:662 INFO  CommonActions:180 - i Click on the element Variant Mapping Tab is clicked
+2024-02-06 15:02:677 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:781 INFO  CommonActions:180 - Highlighted the Selecting the Mapping course variant in the list
+2024-02-06 15:02:986 INFO  CommonActions:180 - i Click on the element Selecting the Mapping course variant in the list
+2024-02-06 15:02:992 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:110 INFO  CommonActions:180 - Highlighted the Clicking Save Button
+2024-02-06 15:02:281 INFO  CommonActions:180 - i Click on the element Clicking Save Button
+2024-02-06 15:02:284 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:517 INFO  CommonActions:180 - Highlighted the Successful alert is present
+2024-02-06 15:02:531 INFO  CommonActions:180 - Mapping Variant in Assessment scheme is passed
+2024-02-06 15:02:556 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:687 INFO  CommonActions:180 - Highlighted the Assessment Scheme Hierarchy Tab is clicked
+2024-02-06 15:02:32 INFO  CommonActions:180 - i Click on the element Assessment Scheme Hierarchy Tab is clicked
+2024-02-06 15:02:35 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:133 INFO  CommonActions:180 - Highlighted the Selecting the Assessment hierarchey
+2024-02-06 15:02:307 INFO  CommonActions:180 - i Click on the element Selecting the Assessment hierarchey
+2024-02-06 15:02:307 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:411 INFO  CommonActions:180 - Highlighted the Add
+2024-02-06 15:02:458 INFO  CommonActions:180 - i Click on the element Add
+2024-02-06 15:02:465 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:581 INFO  CommonActions:180 - Highlighted the Selecting the assessment type Name arrow
+2024-02-06 15:02:693 INFO  CommonActions:180 - i Click on the element Selecting the assessment type Name arrow
+2024-02-06 15:02:706 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:802 INFO  CommonActions:180 - Highlighted the Selecting the assessment Type Name
+2024-02-06 15:02:968 INFO  CommonActions:180 - i Click on the element Selecting the assessment Type Name
+2024-02-06 15:02:968 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:163 INFO  CommonActions:180 - Highlighted the Enter the Weight age Marks
+2024-02-06 15:02:313 INFO  CommonActions:180 - i Click on the element Enter the Weight age Marks
+2024-02-06 15:02:384 INFO  CommonActions:180 - Highlighted the Enter the Weight age Marks
+2024-02-06 15:02:543 INFO  CommonActions:180 - Clicked onEnter the Weight age Marks
+2024-02-06 15:02:543 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:728 INFO  CommonActions:180 - Highlighted the Enter the Min Pass Marks
+2024-02-06 15:02:804 INFO  CommonActions:180 - i Click on the element Enter the Min Pass Marks
+2024-02-06 15:02:906 INFO  CommonActions:180 - Highlighted the Enter the Min Pass Marks
+2024-02-06 15:02:72 INFO  CommonActions:180 - Clicked onEnter the Min Pass Marks
+2024-02-06 15:02:72 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:376 INFO  CommonActions:180 - Highlighted the Enter the Max Pass Marks
+2024-02-06 15:02:468 INFO  CommonActions:180 - i Click on the element Enter the Max Pass Marks
+2024-02-06 15:02:500 INFO  CommonActions:180 - Highlighted the Enter the Max Pass Marks
+2024-02-06 15:02:658 INFO  CommonActions:180 - Clicked onEnter the Max Pass Marks
+2024-02-06 15:02:662 INFO  CommonActions:180 - Waiting for element to be visible
+2024-02-06 15:02:924 INFO  CommonActions:180 - Screenshot taken
