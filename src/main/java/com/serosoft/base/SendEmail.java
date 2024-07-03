@@ -21,8 +21,8 @@ public class SendEmail {
 	public static void send()  throws Exception {
 		Thread.sleep(40000);
 		String to = "gujratiharsh2011@gmail.com";
-		String from = "harsh.gujrati@serosoft.in";
-		final String username = "harsh.gujrati@serosoft.in";// change accordingly
+		String from = "ujjawal.singh@serosoft.in";
+		final String username = "ujjawal.singh@serosoft.in";// change accordingly
 		final String password = "Iluv@pple0";// change accordingly
 		String host = "smtp.gmail.com";
 
