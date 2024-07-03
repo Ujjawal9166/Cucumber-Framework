@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import io.appium.java_client.AppiumDriver;
 /**
  * 
- * @author Harsh Gujrati
+ * @author Ujjawal Singh
  * Do not delete driver variable , this will crash the framework.
  *
  */
