@@ -29,8 +29,7 @@ import com.serosoft.base.BaseClass;
 
 /**
  * 
- * @author Harsh Gujrati Do not Modify any functions . If required to ad more
- *         choices or integration , contact harsh.gujrati@serosoft.in
+ * @author Ujjawal Singh Do not Modify any functions . 
  *
  */
 public class DriverUtils extends GlobalVariable {
