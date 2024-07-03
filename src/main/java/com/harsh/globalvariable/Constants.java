@@ -2,7 +2,7 @@ package com.harsh.globalvariable;
 
 /**
  * 
- * @author Harsh Gujrati
+ * @author Ujjawal Singh
  * Do not Modify constant Variables, May break functionality and code
  *
  */
